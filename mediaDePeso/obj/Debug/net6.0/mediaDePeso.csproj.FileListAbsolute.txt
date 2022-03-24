@@ -1,0 +1,15 @@
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.csproj.AssemblyReference.cache
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.AssemblyInfoInputs.cache
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.AssemblyInfo.cs
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.csproj.CoreCompileInputs.cache
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\bin\Debug\net6.0\mediaDePeso.exe
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\bin\Debug\net6.0\mediaDePeso.deps.json
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\bin\Debug\net6.0\mediaDePeso.runtimeconfig.json
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\bin\Debug\net6.0\mediaDePeso.dll
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\bin\Debug\net6.0\mediaDePeso.pdb
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.dll
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\refint\mediaDePeso.dll
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.pdb
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\mediaDePeso.genruntimeconfig.cache
+D:\ProgramaçãoDEV\GFT-START-2022\mediaDePeso\obj\Debug\net6.0\ref\mediaDePeso.dll
