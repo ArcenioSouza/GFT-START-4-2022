@@ -1,0 +1,15 @@
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\bin\Debug\net6.0\somaImc.exe
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\bin\Debug\net6.0\somaImc.deps.json
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\bin\Debug\net6.0\somaImc.runtimeconfig.json
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\bin\Debug\net6.0\somaImc.dll
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\bin\Debug\net6.0\somaImc.pdb
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.csproj.AssemblyReference.cache
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.AssemblyInfoInputs.cache
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.AssemblyInfo.cs
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.csproj.CoreCompileInputs.cache
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.dll
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\refint\somaImc.dll
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.pdb
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\somaImc.genruntimeconfig.cache
+D:\ProgramaçãoDEV\GFT-START-2022\somaImc\obj\Debug\net6.0\ref\somaImc.dll
